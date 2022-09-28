@@ -1,0 +1,39 @@
+
+    <div class="card overflow-hidden mb-3">
+        <!-- Featured label-->
+        <span class="featured-label" title="{{'featuredTitle'}}">
+            <i class="fas fa-star"></i></span>
+        <!-- Card image -->
+        <div class="card-img-top rounded overflow-hidden position-relative hover-overlay-top">
+            <img class="blog-image" />
+            <div class="position-absolute top-0 m-3 d-flex card-element-hover">
+                <!-- Avatar -->
+                <div class="avatar">
+                    <img class="avatar-img rounded-circle" />
+                </div>
+                <!-- Body -->
+                <div class="ms-3 my-1 text-start text-white-force">
+                    <p class="author-name mb-0">by {{authorName}}</p>
+                    <p class="small mt-n1 mb-0 created-date">{{createdDate}}</p>
+                </div>
+            </div>
+        </div>
+        <!-- Card Body -->
+        <div class="card-body py-4 px-0 d-flex align-items-start flex-column">
+            <div class="mb-auto">
+                <div class="card-meta mb-3 d-flex align-items-center flex-row">
+                    <!-- Card Categories -->
+                    <div class="text-primary-hover">
+                        <a href="#" class="me-2 category">{{category}}</a>
+                    </div>
+                    <!-- Divider -->
+                    <i class="fas fa-circle smaller me-2 fw-bold"></i>
+                    <!-- Min of read -->
+                    <span class="read-times">{{readTime}}</span>
+                </div>
+                <h5><a class="title">{{title}}</a></h5>
+                <p class="short-description">{{shortDescription}}
+                </p>
+            </div>
+        </div>
+    </div>

@@ -1,0 +1,46 @@
+[{
+    "id": 1,
+    "featuredTitle": "Tomas",
+    "authorName": "Neames",
+    "createdDate": "02/04/2022",
+    "category": "Rebar & Wire Mesh Install",
+    "readTimes": 80,
+    "title": "Cure, The",
+    "mainImage": "assets/img/blog/grid/01.jpg",
+    "avatar": "assets/img/avatar/01.jpg",
+    "shortDescription": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+}, {
+    "id": 2,
+    "featuredTitle": "Elka",
+    "authorName": "Struther",
+    "createdDate": "11/05/2021",
+    "category": "Temp Fencing, Decorative Fencing and Gates",
+    "readTimes": 35,
+    "title": "Mysterious Geographic Explorations of Jasper Morello, The",
+    "mainImage": "assets/img/blog/grid/02.jpg",
+    "avatar": "assets/img/avatar/02.jpg",
+    "shortDescription": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+
+}, {
+    "id": 3,
+    "featuredTitle": "Eddi",
+    "authorName": "Boggas",
+    "createdDate": "03/20/2022",
+    "category": "Electrical and Fire Alarm",
+    "readTimes": 9,
+    "title": "Bleak Night",
+    "mainImage": "assets/img/blog/grid/03.jpg",
+    "avatar": "assets/img/avatar/03.jpg",
+    "shortDescription": "In congue. Etiam justo. Etiam pretium iaculis justo."
+}, {
+    "id": 4,
+    "featuredTitle": "Peder",
+    "authorName": "Clelle",
+    "createdDate": "12/29/2021",
+    "category": "Structural and Misc Steel (Fabrication)",
+    "readTimes": 30,
+    "title": "Pardes",
+    "mainImage": "assets/img/blog/grid/04.jpg",
+    "avatar": "assets/img/avatar/04.jpg",
+    "shortDescription": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+}]
