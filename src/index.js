@@ -7,6 +7,11 @@ import BlogCard from "./components/cards/blog/blog-card.js";
 import BlogCards from "./components/cards/blog/blog-cards.js";
 import Testimonials from "./components/testimonials/testimonials.js";
 import BlogDetail from "./components/blog/detail/blog-detail.js";
+import InnovationHero from "./components/hero/innovation/innovation-hero.js";
+import SplitHero from "./components/hero/split/split-hero.js";
+import PrimaryCard from "./components/cards/primary/primary-card.js";
+import HoverCard from "./components/cards/hover/hover-card.js";
+import Cards from "./components/cards/cards.js";
 
 
 resolveRoute().then(() => {
@@ -19,6 +24,8 @@ window.addEventListener('popstate', () => {
         }
     );
 });
+
+
 
 // // Create reveal footer on scroll
 // window.addEventListener('scroll', () => {

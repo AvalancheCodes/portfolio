@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "watch": "gulp watchStyles",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "scp -r ./src/* root@davidbarel.com:/var/www/html"
   },
   "keywords": [],
   "author": "",
